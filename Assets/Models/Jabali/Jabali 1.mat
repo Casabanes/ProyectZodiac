@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jabali 1
+  m_Shader: {fileID: 4800000, guid: 327f15a8edfa0bb4fb851643cceed5a4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _jabali_Standardmaterial_2_AlbedoTransparency:
+        m_Texture: {fileID: 2800000, guid: 25d022cfdcc6f96419085cc91d2b5dad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _jabali_Standardmaterial_2_MetallicSmoothness:
+        m_Texture: {fileID: 2800000, guid: 1f23673e177434649a374d4f4892df2d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _jabali_Standardmaterial_2_Normal:
+        m_Texture: {fileID: 2800000, guid: 23249eea1b777f645ab412f366dfee57, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Float1: 0
+    - __dirty: 0
+    - _redLevel: 0
+    m_Colors: []

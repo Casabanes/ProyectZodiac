@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 327f15a8edfa0bb4fb851643cceed5a4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _jabali_Standardmaterial_2_Normal: {fileID: 2800000, guid: 23249eea1b777f645ab412f366dfee57,
+      type: 3}
+  - _jabali_Standardmaterial_2_AlbedoTransparency: {fileID: 2800000, guid: 25d022cfdcc6f96419085cc91d2b5dad,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
